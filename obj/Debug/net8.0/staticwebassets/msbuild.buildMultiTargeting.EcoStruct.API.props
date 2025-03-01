@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EcoStruct.API.props" />
+</Project>
