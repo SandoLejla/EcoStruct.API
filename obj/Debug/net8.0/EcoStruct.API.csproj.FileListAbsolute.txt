@@ -30,3 +30,4 @@ C:\IKT - Projekt\EcoStruct\EcoStruct.API\EcoStruct.API\obj\Debug\net8.0\refint\E
 C:\IKT - Projekt\EcoStruct\EcoStruct.API\EcoStruct.API\obj\Debug\net8.0\EcoStruct.API.pdb
 C:\IKT - Projekt\EcoStruct\EcoStruct.API\EcoStruct.API\obj\Debug\net8.0\EcoStruct.API.genruntimeconfig.cache
 C:\IKT - Projekt\EcoStruct\EcoStruct.API\EcoStruct.API\obj\Debug\net8.0\ref\EcoStruct.API.dll
+C:\IKT - Projekt\EcoStruct\EcoStruct.API\EcoStruct.API\obj\Debug\net8.0\EcoStruct.API.sourcelink.json
