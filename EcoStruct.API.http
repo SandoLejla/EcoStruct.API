@@ -1,6 +1,17 @@
-@EcoStruct.API_HostAddress = http://localhost:5076
+@host = https://localhost
+@port = 7005
+@EcoStruct_API_HostAddress = {{host}}:{{port}}
+@projectUrl = https://localhost:7005
 
-GET {{EcoStruct.API_HostAddress}}/weatherforecast/
+GET {{EcoStruct_API_HostAddress}}/api/weatherforecast/23/example?max=15
 Accept: application/json
+ProjectUrl: {{projectUrl}}
+Guid: {{$guid}}
+LocalDate: {{$datetime iso8601}}
+Random-int: {{$randomInt}}
 
 ###
+POST {{EcoStruct_API_HostAddress}}/api/weatherforecast
+Content-Type: application/json 
+
+"Sando"

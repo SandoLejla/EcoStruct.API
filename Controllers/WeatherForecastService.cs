@@ -1,4 +1,6 @@
-﻿namespace EcoStruct.API.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace EcoStruct.API.Controllers
 {
 	public interface IWeatherForecastService
 	{
